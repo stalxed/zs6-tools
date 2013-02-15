@@ -1,0 +1,11 @@
+{
+    "require": {
+        "zendframework/zend-http": "2.*"
+    },
+    "repositories": [
+        {
+            "type": "composer",
+            "url": "https://packages.zendframework.com/"
+        }
+    ]
+}
